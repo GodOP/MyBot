@@ -10,4 +10,3 @@ It's a server that uses plugins made by heroguy42 and XGreenPlayz12.
 
 #TotalFreedomMod
 We use TFM to fork with GOPM. 
-.

@@ -1,0 +1,9 @@
+name: MyBot
+main: me.godop.mybot.MyBot
+authors: [XGreenPlayz12, heroguy42]
+version: 1.0
+description:  >
+              A Bot for the GodOP Server.
+commands:
+  mybot:
+    description: Shows a list of commands for the plugin.
